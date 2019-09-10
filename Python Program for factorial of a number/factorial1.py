@@ -4,3 +4,4 @@ def factorial(n):
 
 n = input("enter the number: ")
 print("Factorial of", n , "is", factorial(int(n)))
+
