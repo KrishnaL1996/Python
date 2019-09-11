@@ -15,3 +15,5 @@ if isarmstrong(x):
     print(x,"is a armstrong number")
 else:
     print(x,"is not a armstrong number")
+
+    
