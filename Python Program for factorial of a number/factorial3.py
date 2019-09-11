@@ -8,3 +8,4 @@ def factorial(k):
 
 k=input("enter the number: ")
 factorial(int(k))
+
