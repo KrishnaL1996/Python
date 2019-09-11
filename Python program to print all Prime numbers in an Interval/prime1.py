@@ -12,3 +12,4 @@ for val in range(start, end + 1):
             
             c+=1 
 print("total number of prime number in range:",c)
+
