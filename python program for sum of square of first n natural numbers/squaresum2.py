@@ -10,3 +10,4 @@ def squaresum3(n):
    return int((n*(n+1)*(2*n+1))/6)
 n=50000000000 
 print(squaresum3(n))
+
